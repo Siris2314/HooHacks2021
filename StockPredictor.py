@@ -12,6 +12,9 @@ from tensorflow.keras.layers import Dense, Dropout,LSTM
 
 
 company = input("Enter a stock ticker symbol: ")
+data_start = input("Enter the date to begin prediction at: ")
+data_end = input("Enter the date to end prediction at: ")
+
 
 
 stock_start = dt.datetime(2012, 1,1)

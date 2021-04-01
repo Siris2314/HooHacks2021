@@ -7,4 +7,7 @@ Disclaimer: This application is not financial advise, this is just a fun Machine
 
 
 
-Welcome to StockNN, a stock predictor made using Neural Networks
+Welcome to StockNN, a stock predictor made using Neural Networks:
+
+- Using the brilliant TensorFlow and SciKit Learn libraries, we have made a stock predictor that predicts the closing price of a stock one day ahead
+

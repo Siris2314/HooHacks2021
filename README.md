@@ -19,7 +19,16 @@ Pick two dates from where you want the Neural Network to train on, my reccomenda
 
   
 
-Next pick a ticker symbol for a company, whose closing stock you would like to predict:
+Next pick a ticker symbol for a company, whose closing stock you would like to predict and then hit submit:
 
 <img width="305" alt="image" src="https://user-images.githubusercontent.com/25334323/113241805-6780e580-927d-11eb-9724-6e0ad950a0ce.png">
+
+
+Once you hit submit, you will have to wait a few mins for the Neural Network to train on the data(I will cover how we acquired said data later) and to also make the prediction for the next closing day price:
+
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/25334323/113241952-c2b2d800-927d-11eb-8775-a9f61b6a68ce.png">
+
+
+
+
 

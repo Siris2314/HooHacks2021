@@ -29,6 +29,18 @@ Once you hit submit, you will have to wait a few mins for the Neural Network to 
 <img width="1437" alt="image" src="https://user-images.githubusercontent.com/25334323/113241952-c2b2d800-927d-11eb-8775-a9f61b6a68ce.png">
 
 
+Now a python application should open up with a graph of the actual vs predicted price(the green is actual and the red is predicted:
+
+<img width="955" alt="image" src="https://user-images.githubusercontent.com/25334323/113459007-3a9a1300-93e2-11eb-93ff-0225ed436531.png">
+
+
+Now to address some issues, currently we are having slight difficulty in displaying the next day closed price prediction onto the UI and for we also forgot to display the axis and legend of the graph. These issues will be resolved in the upcoming 1.1 update that we are working on.
+
+
+
+
+
+
 
 
 
